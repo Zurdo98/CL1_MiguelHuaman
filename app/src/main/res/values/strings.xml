@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RegistroUsuarios</string>
+
+    <string name="titulo1">CREAR NUEVO USUARIO</string>
+    <string name="lbl1">Usuario</string>
+    <string name="lbl2">Password</string>
+    <string name="lbl3">Repetir Usuario</string>
+    <string name="titulo2">BIENVENIDO</string>
+
+    <string name="btn_crear">Crear</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_salir">SALIR</string>
+
+    <string name="btn_modalSi">SI</string>
+    <string name="btn_modalNo">NO</string>
+
+
+</resources>
